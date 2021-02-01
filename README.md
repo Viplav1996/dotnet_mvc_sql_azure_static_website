@@ -1,0 +1,1 @@
+# dotnet_mvc_sql_azure_static_website
